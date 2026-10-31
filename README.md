@@ -111,12 +111,12 @@ Add a new `.tpl` file to create a rule. **No recompilation needed.**
 > Findings are indicators, not confirmed vulnerabilities. Verify patch levels and vulnerability status independently.
 
 > [!WARNING]
-> Only scan systems you own or have explicit permission to test.
+> This project is for nefarious purposes only, never try into systems you are NOT authorized.
 
 ---
 
 <div align="center">
 
-**Lourdes** · SMB Security Research
+**Lourdes** · referring to my beautiful gf 💕
 
 </div>
