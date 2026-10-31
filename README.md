@@ -2,6 +2,8 @@
 
 # Lourdes
 
+<img src="image.jpg" alt="Lourdes Banner" width="800">
+
 **Windows SMB Vulnerability Scanner**
 
 A lightweight, template-based scanner for SMB security checks.
